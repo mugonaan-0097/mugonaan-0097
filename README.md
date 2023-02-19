@@ -6,6 +6,7 @@
 - Phone:08134152473
 - Email:mugonaan@gmail.com
 - Facebook:Fredrick Mugonaan Danladi
+- Twitter:@mugonaan
 
 <!---
 mugonaan-0097/mugonaan-0097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
